@@ -1,4 +1,4 @@
-### Hi there 👋, I am Olugbenga.
+### Hi there 👋, I am Oluwapelumi.
 
 I am a dedicated developer with over five (5) years of experience as a frontend developer and three (3) years developing applications
 with the MERN stack. I also develop mobile applications using mostly react native. I am also a growing blockchain developer with
