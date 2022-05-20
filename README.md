@@ -2,7 +2,8 @@
 
 I am a dedicated developer with over five (5) years of experience as a frontend developer and three (3) years developing applications
 with the MERN stack. I also develop mobile applications using mostly react native. I am also a growing blockchain developer with
-experience in writing smart contracts and integrating Dapps. I am a goal-driven team player who is able to communicate efficiently.
+experience in writing smart contracts and integrating Dapps. 
+I am a goal-driven team player who is able to communicate efficiently.
 I am also happy and always ready to learn new technologies to get the job done. 
 
 ⚡When I'm not writing codes, I'm writing poetry, reading novels, taking pictures or sleeping.
