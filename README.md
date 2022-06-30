@@ -8,6 +8,7 @@ I am also happy and always ready to learn new technologies to get the job done.
 
 ⚡When I'm not writing codes, I'm writing poetry, reading novels, taking pictures or sleeping.
 
+✨
 
 [![Olugbenga's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelofpc&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    
 [![Olugbenga's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelofpc&layout=compact&langs_count=10&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
