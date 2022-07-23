@@ -10,7 +10,6 @@ I am also happy and always ready to learn new technologies to get the job done.
 
 ✨
 
-[![Olugbenga's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelofpc&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)    
 [![Olugbenga's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelofpc&layout=compact&langs_count=10&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Olugbenga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=angelofpc)](https://github.com/anuraghazra/github-readme-stats)
